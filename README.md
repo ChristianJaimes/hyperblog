@@ -6,4 +6,4 @@ Un proyecto producto del  curso de "Git y Github de [Platzi](https://platzi.com/
 ## Explicacion del blog
 Contenido en HTML y CSS para ejemplificar las multiples interacciones que pueden realizarse desde  git. 
 
-### Creado por Christian jaimes A.
+### Creado por Christian Jaimes A.
